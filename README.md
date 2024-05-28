@@ -11,7 +11,9 @@ source venv/bin/activate
 >![image](https://github.com/PipaPipe/BIT_Test/assets/74451005/bbc0559b-065d-489b-82e3-6896180a246d)
 4. Следуйте инструкциям, которые выводятся в виде подсказок
 >![image](https://github.com/PipaPipe/BIT_Test/assets/74451005/0be65493-490f-4168-9072-9698e574102a)
-
+5. Файлы отчетности сохраняются в папку проекта - Reports
+>![image](https://github.com/PipaPipe/BIT_Test/assets/74451005/0b72fca9-b6b8-475e-9bbd-9b11fb06e94e)
+ 
 
 
 
